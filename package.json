@@ -1,0 +1,25 @@
+{
+  "name": "gulp-wpmvc-deploybot",
+  "version": "1.0.0",
+  "description": "DeployBot build command for Wordpress MVC development.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/localvibes/gulp-wpmvc-deploybot.git"
+  },
+  "keywords": [
+    "wpmvc",
+    "deploybot",
+    "gulp"
+  ],
+  "author": "Local Vibes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/localvibes/gulp-wpmvc-deploybot/issues"
+  },
+  "homepage": "https://github.com/localvibes/gulp-wpmvc-deploybot",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1"
+  },
+  "private": false
+}
